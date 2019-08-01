@@ -1,3 +1,5 @@
+logusername=""
+logpassword=""
 import random
 password=str(random.randint(100000,999999))
 print("sing up")
